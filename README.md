@@ -1,1 +1,1 @@
-# YouTubeElecciones
+Repositorio con dashboards y el código de extraccion de datos sobre las métricas en YouTube, en vídeos de más de tres minutos, para los tres candidatos más votados en las elecciones Argentinas de 2023. 
